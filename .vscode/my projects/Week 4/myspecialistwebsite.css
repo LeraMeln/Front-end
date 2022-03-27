@@ -1,0 +1,66 @@
+body {
+    background-color: azure;
+    color: rgb(158, 94, 255);
+}
+
+svg {
+    position: fixed;
+    padding-left: 25%;
+    top: 13px;
+}
+
+#mainmenu .menu {
+    text-decoration: none;
+    font-weight: bolder;
+    position: relative;
+    text-align: center;
+    text-align-last: center;
+    font-size: larger;
+    padding: 10px;
+    left: 40%;
+}
+
+nav .menu:hover {
+    text-decoration: solid;
+}
+
+h1 {
+    position: sticky;
+    text-align: center;
+    top: 13px;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+#aboutme,
+#myexperience {
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.subheadings\  {
+    font-size: 35px;
+    text-align: center;
+    color: violet;
+}
+
+#websitecases {
+    size-adjust: 70%;
+    align-items: baseline;
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+footer {
+    text-align: center;
+    color: rgb(158, 94, 255);
+    font-size: 23px;
+    font-weight: 300;
+    text-decoration: solid;
+}

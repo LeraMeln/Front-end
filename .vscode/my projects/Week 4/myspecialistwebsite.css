@@ -1,6 +1,7 @@
 body {
     background-color: azure;
     color: rgb(158, 94, 255);
+    font-family: 'Arvo', serif;
 }
 
 svg {
@@ -63,4 +64,10 @@ footer {
     font-size: 23px;
     font-weight: 300;
     text-decoration: solid;
+}
+
+p:first-letter {
+    color: rgb(241, 116, 255);
+    font-weight: 800;
+    font-size: 30px;
 }
